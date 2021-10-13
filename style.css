@@ -1,0 +1,45 @@
+body {
+    background-image: url('assets/topography.png');
+    font-family: Courier New, monospace;
+    margin: 0;
+}
+ nav {
+     background-color: #333333;
+     padding-left: 10%;
+     padding-right: 10%;
+     display: flex;
+     justify-content: space-between;
+     align-items: center
+ }
+
+ .container {
+     padding-top: 5%;
+     padding-left: 10%;
+     padding-right: 10%
+ }
+
+ hr {
+     border-top:2px dashed; width: 27px
+ }
+
+ .pink{
+     color: #ff0099;
+ }
+
+ .links{
+     display: flex;
+     justify-content: space-between;
+ }
+
+ a{
+     padding-left: 30px;
+ }
+
+ h2{
+     text-align: center;
+ }
+
+ h1{
+     font-size: 300%;
+ }
+
