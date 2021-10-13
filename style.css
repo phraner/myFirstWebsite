@@ -7,6 +7,8 @@ body {
      background-color: #333333;
      padding-left: 10%;
      padding-right: 10%;
+     padding-top: 10px;
+     padding-bottom: 10px;
      display: flex;
      justify-content: space-between;
      align-items: center
@@ -19,7 +21,8 @@ body {
  }
 
  hr {
-     border-top:2px dashed; width: 27px
+     border-top:2px dashed;
+     width: 27px;
  }
 
  .pink{
@@ -36,10 +39,15 @@ body {
  }
 
  h2{
+     padding-top: 5%;
      text-align: center;
  }
 
  h1{
-     font-size: 300%;
+     font-size: 350%;
+ }
+
+ #addpad{
+     padding-bottom: 5%;
  }
 
